@@ -1,1 +1,3 @@
 # Deterministic-Search
+
+In this exercise, the role is assumed of a head of a drone delivery agency. The main goal is to deliver packages to clients in the shortest time possible by using search algorithms. The environment is a rectangular grid with passable and impassable tiles, packages, and clients with predetermined paths. Drones can pick up and deliver packages, move up to one tile horizontally or vertically, or wait. Atomic actions can be combined into a full action. Clients move along their predetermined paths after the drones have completed their actions. The goal is to deliver all required packages to each client in the shortest number of steps.
